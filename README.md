@@ -8,7 +8,7 @@ BillSplitter is a python-based package to split the bills between people. Given 
 
 ### How can I contribute?
 Pull requests are always welcome. The next features I would like to implement are:
-- [ ] Visualize the due amount of every people to whom
+- [ ] Visualize the due amount of every person to whom
 - [ ] Indicate the amount payed by every people in the bill and taking into account while splitting
 - [ ] A nice logo is always welcome 😊
 
