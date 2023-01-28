@@ -1,6 +1,6 @@
 # BillSplitter
 
-### What is bill splitter?
+### What is BillSplitter?
 BillSplitter is a python-based package to split the bills between people. Given a group of people, you can: <p>
 * Make one person pay and the bill will be egually splitted among all the people within the group.
 * Make one person pay and the bill will be egually splitted among only some appointed people in the group.
